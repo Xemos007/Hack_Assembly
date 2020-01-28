@@ -1,3 +1,5 @@
+//Multiplication of 2 nos using the process of addition
+//Author: Xemos007
 @2
 M=0
 
